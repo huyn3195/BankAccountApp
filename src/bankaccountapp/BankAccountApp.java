@@ -5,11 +5,7 @@ import java.util.List;
 
 public class BankAccountApp {
     public static void main(String[]args) {
-		/*checking chck1=new checking("Cat Huynh","123456789",1500);
-		saving sav1=new saving("Daniel","123456789",2500);
-		chck1.showInfo();
-		System.out.println("**************");
-		sav1.showInfo();*/
+		
         List<account>accounts=new LinkedList<account>();
 
 
